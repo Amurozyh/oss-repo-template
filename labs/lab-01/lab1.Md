@@ -1,4 +1,4 @@
-#Name: Yinhao Zhao
+Name: Yinhao Zhao
 
 email: zhaoy15@rpi.edu
 
