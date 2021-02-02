@@ -6,4 +6,6 @@ github account: Amurozyh
 
 Discord handle: zyh
 
-![photo](https://github.com/Amurozyh/image/blob/main/photo.jpg)
+Photo: ![photo](https://github.com/Amurozyh/image/blob/main/photo.jpg)
+
+Discord screenshot: ![discord](https://github.com/Amurozyh/image/blob/main/1612237560(1).png)
