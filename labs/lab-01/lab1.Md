@@ -6,4 +6,4 @@ github account: Amurozyh
 
 Discord handle: zyh
 
-![photo](C:\Users\amuro\OneDrive\Desktop\申研)
+![photo](https://drive.google.com/file/d/1gwQb-zzFt3KWpM2L5v_HpBWRTNk0bHY_/view?usp=sharing)
